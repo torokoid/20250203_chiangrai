@@ -225,7 +225,7 @@ p.note { display: none; }
 <a href="20250203_044.JPG" target="_blank"><img src="20250203_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250203_045.JPG" target="_blank"><img src="20250203_045.JPG" alt="サンプル画像" width="900" /></a>
     
-    <h2><span class="yellow"><a href="https://www.nao.ac.jp/astro/sky/2016/02-topics01.html" target="_blank">カノープスの説明リンク念のため貼ります</a></span></h2>
+    <h2><span class="yellow"><a href="https://www.nao.ac.jp/astro/sky/2016/02-topics01.html" target="_blank">カノープスの説明リンク念のため貼ります、この文字クリックで開きます</a></span></h2>
 
 
 
